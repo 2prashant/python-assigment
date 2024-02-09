@@ -1,0 +1,13 @@
+*{
+    margin:0;
+    padding: 0;
+}
+body{
+    min-height: 100vh;
+    min-width: 100vw;
+    background-image: url('./pexels-ajay-donga-2174656.jpg');
+    background-size: cover;
+     background-repeat: none; 
+    background-position: center;
+
+}
